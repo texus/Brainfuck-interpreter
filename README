@@ -1,0 +1,12 @@
+Brainfuck interpreter
+=====================
+
+A simple brainfuck interpreter written in c++ just for fun.
+
+
+Compile & Run
+-------------
+
+    g++ bf-interpreter.cpp -std=c++11 -o bf-interpreter
+
+    ./bf-interpreter input.bf
